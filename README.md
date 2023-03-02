@@ -32,4 +32,4 @@ En la carpeta `clases` se encuentran las libretas que se utilizan durante cada v
 1. Si estás leyendo ésta sección, quiere decir que te encuentras en la "sección principal". En la parte superior derecha hay un botón verde que dice `Code`, da click y te desplegará un menú. 
 2. Selecciona la opción que dice `Download Zip`.
 
-Si tienes dudas, sientéte en la libertad de escribirme.
+Si tienes dudas o comentarios, siempre puedes escribirme.
