@@ -21,13 +21,13 @@ En la carpeta `clases` se encuentran las libretas que se utilizan durante cada v
 
 ### ¿Cómo descargar las libretas de Juypter? 
 
-**Opción 1**. <font color=#3e1d91>Descargar un solo archivo</font>:
+**Opción 1. Descargar un solo archivo.**
 
 1. Ingresa a la carpeta de interés y da click en el archivo que deseas descargar.
 2. En la parte superior derecha aparecerá un botón que dice `Raw` da click y te abrirá una nueva pestaña con "cosas raras", que no es más que el código que genera la libreta o el "archivo crudo". 
 3. En la pestaña nueva, donde se encuentra el archivo crudo presiona `ctrl + s` para Windows/Linux o `cmd + s` para MacOS y en seguida te aparecerá la ventana para que guardes el archivo en tu computadora. 
 
-**Opción 2**. Descargar todo el repositorio completo. 
+**Opción 2. Descargar todo el repositorio completo.** 
 
 1. Si estás leyendo ésta sección, quiere decir que te encuentras en la "sección principal". En la parte superior derecha hay un botón verde que dice `Code`, da click y te desplegará un menú. 
 2. Selecciona la opción que dice `Download Zip`.
