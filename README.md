@@ -16,6 +16,7 @@ En la carpeta `clases` se encuentran las libretas que se utilizan durante cada v
 * Clase 1: [Introducción, datos y variables](https://drive.google.com/file/d/1UNayK5Eb3P_W1f2uk5p9G1InxGQjxPP7/view?usp=share_link)
 * Clase 2: [Estructuras de datos](https://drive.google.com/file/d/1YiO9EobOIOoLtlUpiZAmxK1AD6UkEEsw/view?usp=share_link)
 * Clase 3: [Operadores y expresiones](https://www.youtube.com/watch?v=10YGTC-ptVM&list=PLvN9mIQVac_T8OzPSTZWMdkAEtX0NArX5&index=1)
+* Clase 4: [Algoritmos](https://www.youtube.com/watch?v=xrdocLcp5Pg)
 
 ## Preguntas frecuentes 
 
