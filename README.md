@@ -18,6 +18,7 @@ En la carpeta `clases` se encuentran las libretas que se utilizan durante cada v
 * Clase 3: [Operadores y expresiones](https://www.youtube.com/watch?v=10YGTC-ptVM&list=PLvN9mIQVac_T8OzPSTZWMdkAEtX0NArX5&index=1)
 * Clase 4: [Algoritmos](https://www.youtube.com/watch?v=xrdocLcp5Pg)
 * Clase 5. [Control de flujo: `if-else-elif`](https://www.youtube.com/watch?v=YWEsl-Km1JY)
+* Clase 6: [Control de flujo: `while`](https://www.youtube.com/watch?v=4bMHdIbeUwM)
 
 ## Preguntas frecuentes 
 
