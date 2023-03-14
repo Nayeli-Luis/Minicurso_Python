@@ -6,6 +6,7 @@
 
 1. La práctica se puede realizar en parejas o de manera individual. 
 2. Se entrega una libreta de Jupyter-Notebook con el siguiente formato en el nombre: `p1_NombreApellido.ipyb` (`.ipyb` es el formato de las libretas de Jupyter).
+3. La entrega se hace por Classroom en la asignación de Práctica 1, la misma que la de sus compañeros computólogos.
 
 **Instrucciones**:
 
