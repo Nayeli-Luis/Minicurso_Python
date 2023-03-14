@@ -4,7 +4,7 @@
 
 ## Notas 
 
-1. Este curso se imparte con la materia de Genómica Computacional, Facultad de Ciencias, UNAM. Está pensado para aquellas personas del área de ciencias biológicas y que desean iniciarse en el mundo de la bioinformática/biología computacional, etc. 
+1. Este curso se imparte con la materia de Genómica Computacional, Facultad de Ciencias, UNAM. Está pensado para aquellas personas del área de ciencias biológicas que desean iniciarse en el mundo de la bioinformática/biología computacional, etc. 
 
 2. Para el diseño de éste curso se tómo como referencia el libro de Herrera Morales, J., Gutiérrez Posada, J. y Pulgarín Giraldo, R. (2017). Introducción a la Lógica de Programación. Armenia, Colombia: ElIZCOM
 
