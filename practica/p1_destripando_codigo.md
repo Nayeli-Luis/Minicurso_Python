@@ -22,6 +22,6 @@
 
 * Si se les facilita generar un video para las explicaciones del código, éste es bienvenido.
     
-* Para ésta práctica puedes apoyarte de [la documentación oficial de `Python`]() y de [ésta página](https://www.w3schools.com/python/default.asp) que facilita mucho el entendimiento de algunas funciones de `Python`. 
+* Para ésta práctica puedes apoyarte de la [documentación oficial de `Python`](https://docs.python.org/es/3/search.html) y de [ésta página](https://www.w3schools.com/python/default.asp) que facilita mucho el entendimiento de algunas funciones de `Python`. 
 
 * Recuerda que las dudas siempre son bienvenidas.
